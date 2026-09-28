@@ -3,8 +3,6 @@ def check_even_odd(number):
         return "Even"
     else:
         return "Odd"
-
-
 number = int(input("Enter a number: "))
 print(check_even_odd(number))
-# python Code/01_even_odd.py
+# python Code/01_even_odd.py      
