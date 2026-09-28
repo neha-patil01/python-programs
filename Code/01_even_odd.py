@@ -7,3 +7,4 @@ def check_even_odd(number):
 
 number = int(input("Enter a number: "))
 print(check_even_odd(number))
+# python Code/01_even_odd.py
